@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--================================================================-->
+<!-- xmlName		: strings.xml									-->
+<!-- 概要			: プリファレンス定義 							-->
+<!-- 																-->
+<!--  LiplisAndroidシステム     									-->
+<!--  Copyright(c) 2011-2011 sachin. All Rights Reserved. 			-->
+<!--================================================================-->
+<resources>
+    <string name="app_name">Liplis Small Lili</string>
+    <string name="menu1">Menu1</string>
+    <string name="menu2">Menu2</string>
+    <string name="menu3">Menu3</string>
+    <string name="menu_clicked">Menu item clicked.</string>
+</resources>
