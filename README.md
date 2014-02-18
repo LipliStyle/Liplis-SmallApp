@@ -49,6 +49,9 @@ Copyright(c) 2014 LipliStyle さちん
 eclipseでインポートして下さい。  
 APILevel 16です。  
 
+LiplisAndroidも合わせてインポートして下さい。
+LiplisAndroidをライブラリとして使用しています。
+(プロジェクトのプロパティ、Androidメニュー内の「ライブラリー」にチェックする)
 
 著作権表示
 ==========
